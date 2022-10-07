@@ -3,7 +3,7 @@
 - You send photo to bot and bot send you that photo without additional EXIF metadata
 
 ## Example
-- Original EXIF data:
+- Original file EXIF data:
 >- File Name                       : Alan_Turing_Aged_16.jpg
 >- Directory                       : .
 >- File Size                       : 217 kB
@@ -58,7 +58,7 @@
 >- Date/Time Original              : 2012:11:23 18:51:50.14
 >- Thumbnail Image                 : (Binary data 4145 bytes, use -b option to extract)
 
-- After Remove EXIF data:
+- After Remove additional EXIF data from file:
 >- File Name                       : file_32.jpg
 >- Directory                       : .
 >- File Size                       : 217 kB
