@@ -1,4 +1,4 @@
-# ExifRemoverBot
+# Exif Remover Bot
 - A telegram bot that can remove exif from JPEG and PNG files
 - You send photo to bot and bot send you that photo without additional EXIF metadata
 
